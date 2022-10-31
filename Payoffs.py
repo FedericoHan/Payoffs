@@ -1,4 +1,4 @@
-    
+class Payoffs(object):
     '''given a few securities , produce quick payoff vs pure linear '''
     
     def __init__(self, range_low, range_high, step, k , pos, callput, forward, lev):
